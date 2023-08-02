@@ -37,7 +37,7 @@
   
   "main_inter": true,
   
-  "show_force_rate": true,
+  "show_force_rate": false,
   
   
   "show_slider": false,
@@ -54,7 +54,7 @@
   "show_rate_us_in_list": true,
   
   
-  "show_cpa": true,
+  "show_cpa": false,
   "cpa_image": "https://cdn.ramseysolutions.net/media/blog/taxes/business-taxes/what-does-a-cpa-do.jpg",
   "cpa_url": "https://www.ramseysolutions.com/taxes/what-does-a-cpa-do",
   "cpa_button_text": "Get It Now!",
@@ -69,24 +69,24 @@
   "suspended_URL": "xxxx",
   
   "show_app_1": true,
-  "app_icon_1": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-  "app_title_1": "Parchisi STAR Online",
-  "app_desc_1": "Parchisi STAR is an online multiplayer game.",
-  "app_url_1": "com.superking.parchisi.star",
+  "app_icon_1": "https://play-lh.googleusercontent.com/OZoa06sJ3HvVpE8V8g9ax6uXFuu6NTgH63NTXcLEYSdp3WBDIaVdKXXgWjGyZwO9Vir5=w240-h480-rw",
+  "app_title_1": "Otaku Wallpapers 4K",
+  "app_desc_1": "Otaku Wallpapers 4K is the ultimate destination for anime enthusiasts",
+  "app_url_1": "com.otaku.wallpapers4k",
   
-  "show_app_2": true,
+  "show_app_2": false,
   "app_icon_2": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag=s512-rw",
   "app_title_2": "8 Ball Pool",
   "app_desc_2": "8 Ball Pool is your online challenge in 3D!",
   "app_url_2": "com.miniclip.eightballpool",
   
-  "show_app_3": true,
+  "show_app_3": false,
   "app_icon_3": "https://play-lh.googleusercontent.com/hO7716hh7NCcFauJedDclX-R3Zh9JmbSs8AUU6TP2edGVILlZM7gmyt_8WPCZELiPQA=s512-rw",
   "app_title_3": "Plants vs. Zombies™",
   "app_desc_3": "Soil your plants as a mob of fun-loving zombies",
   "app_url_3": "com.ea.game.pvzfree_row",
   
-  "show_app_4": true,
+  "show_app_4": false,
   "app_icon_4": "https://images.ctfassets.net/hrltx12pl8hq/3j5RylRv1ZdswxcBaMi0y7/b84fa97296bd2350db6ea194c0dce7db/Music_Icon.jpg",
   "app_title_4": "App Name",
   "app_desc_4": "The standard chunk of Lorem Ipsum used since the 1500s",
@@ -95,10 +95,10 @@
 
   "guides": [
 	{
-	 "image": "https://images.ctfassets.net/hrltx12pl8hq/3j5RylRv1ZdswxcBaMi0y7/b84fa97296bd2350db6ea194c0dce7db/Music_Icon.jpg",
-	 "title": "title 1",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	 "image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767731-810x456.jpg",
+	 "title": "AVALIA MONEY",
+	 "text": "AVALIA MONEY O QUE É?",
+	 "text_two": "Com certeza. O Avalia Money é um app que está pagando pessoas reais, usuários internautas para darem curtidas e ajudar a escolher looks para fabricação de novas tendências, então quando você curte os looks você ganha uma quantia por cada curtida. Quanto mais você dar curtidas, mais dinheiro ganha",
 
 	 "showInSlider": true,
 	 
@@ -107,22 +107,22 @@
 
 	},
 	{
-	 "image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767737.jpg",
-	 "title": "title 2",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	 "image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767731-810x456.jpg",
+	 "title": "AVALIA MONEY",
+	 "text": "AVALIA MONEY FUNCIONA?",
+	 "text_two": "Sim. O Avalia Money é uma forma prática e simples de fazer uma renda extra, é uma grande oportunidade de reduzir custos com fabricação de roupas ajudando usuários a ganhar dinheiro por cada curtida e mais assertividade nas novas coleções. Com o Avalia Money é possível ganhar dinheiro em casa apenas curtindo looks, então pode confiar porque várias pessoas estão utilizando esse aplicativo e ganhando muito dinheiro.",
 
-	 "showInSlider": false,
+	 "showInSlider": true,
 	 
-	 "isLocked": true,
-	 "id": 2
-	 
+	 "isLocked": false,
+	 "id": 3
+
 	},
 	{
 	 "image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767731-810x456.jpg",
-	 "title": "title 3",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	 "title": "AVALIA MONEY",
+	 "text": "AVALIA MONEY VALE A PENA?",
+	 "text_two": "Com certeza. O Avalia Money é um app que está pagando pessoas reais, usuários internautas para darem curtidas e ajudar a escolher looks para fabricação de novas tendências, então quando você curte os looks você ganha uma quantia por cada curtida. Quanto mais você dar curtidas, mais dinheiro ganha",
 
 	 "showInSlider": true,
 	 
@@ -132,9 +132,9 @@
 	},
 	{
 	"image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767734-810x456.jpg",
-	 "title": "title 4",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	 "title": "AVALIA MONEY",
+	 "text": "AVALIA MONEY É CONFIÁVEL?",
+	 "text_two": "Sim. O Avalia Money é um aplicativo que inúmeras pessoas estão utilizando para ganhar um dinheiro extra apenas curtindo roupas selecionadas, ajudando a fabricar coleções com base na opinião de usuários. Com o Avalia Money é possível ganhar dinheiro apenas curtindo looks  e você pode sacar o dinheiro todos os dias.",
 
 	 "showInSlider": false,
 	 
@@ -144,9 +144,9 @@
 	},
 	{
 	"image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767458-810x456.jpg",
-	 "title": "title 5",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	 "title": "AVALIA MONEY",
+	 "text": "AVALIA MONEY TÊM GARANTIA?",
+	 "text_two": "O Avalia Money é um aplicativo de renda extra que está pagando 1 real por curtida para usuários avaliarem uma lista de looks selecionados para a produção de novas coleções de lançamento.",
 
 	 "showInSlider": true,
 	 
@@ -156,9 +156,9 @@
 	},
 	{
 	"image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767446.jpg",
-	 "title": "title 6",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	 "title": "AVALIA MONEY",
+	 "text": "AVALIA MONEY FUNCIONA",
+	 "text_two": "Oii galerinha, tudo bem?! Vim aqui nesse vídeo contar pra vocês uma novidade que vem ajudando milhares de pessoas a ganhar uma renda extra. O Avalia Money é a nova sensação do momento, um aplicativo feito para ajudar pessoas a ganharem dinheiro apenas por curtirem looks selecionados. Fica comigo nesse vídeo que vou te contar o que você precisa saber sobre o Avalia Money.",
 
 	 "showInSlider": true,
 	 
